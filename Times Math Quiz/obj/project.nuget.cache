@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5UnOMdp87GPxOf5saMfrlFcB7JIF79dwbOzAiihImLhqxkKwEbYDhoL0KETfDYdOCpFS516lZnwYs6t3tVKmXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaden\\source\\repos\\Times Math Quiz\\Times Math Quiz\\Times Math Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

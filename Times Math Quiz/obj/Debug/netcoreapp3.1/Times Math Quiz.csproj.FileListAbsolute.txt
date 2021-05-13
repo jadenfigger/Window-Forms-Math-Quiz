@@ -1,0 +1,15 @@
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.exe
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.deps.json
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.runtimeconfig.json
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.runtimeconfig.dev.json
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.dll
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\bin\Debug\netcoreapp3.1\Times Math Quiz.pdb
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.csprojAssemblyReference.cache
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times_Math_Quiz.Form1.resources
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.csproj.GenerateResource.cache
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.AssemblyInfoInputs.cache
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.AssemblyInfo.cs
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.dll
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.pdb
+C:\Users\jaden\source\repos\Times Math Quiz\Times Math Quiz\obj\Debug\netcoreapp3.1\Times Math Quiz.genruntimeconfig.cache
